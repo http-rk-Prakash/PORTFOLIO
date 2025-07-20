@@ -6,4 +6,4 @@ $(document).ready(function(){
        dotsclass:'dots'
    });
 });
-// prakash
+// prakash kumar
