@@ -6,3 +6,4 @@ $(document).ready(function(){
        dotsclass:'dots'
    });
 });
+// prakash
